@@ -11,3 +11,16 @@ body {
 	background-image: URL("../img/blurred-leaves.jpg") !important;
 }
 
+h1 {
+	display: flex;
+	justify-content: center;
+	font-family: ;
+	font-size: ;
+	color: ;
+	text-shadow: ;
+}
+
+p {
+	font-family: ;
+}
+
