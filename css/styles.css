@@ -11,6 +11,21 @@ body {
 	background-image: URL("../img/blurred-leaves.jpg") !important;
 }
 
+
+nav ul li a {
+	font-family: 'Solway', serif;
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+
+	text-decoration: none;
+	color: rgba(230,68,0,0.5);
+}
+
+nav ul li a:visited {
+	text-decoration: none;
+	color: forestgreen;
+
 h1 {
 	display: flex;
 	justify-content: center;
@@ -23,5 +38,7 @@ h1 {
 p {
 	font-family: ;
 }
+
+
 
 </style>
