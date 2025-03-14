@@ -12,10 +12,6 @@ body {
 	background-color: rgba(16, 162, 196, 0.8);
     }
 
-.blurred-leaves {
-	background-image: URL("../img/blurred-leaves.jpg") !important;
-}
-
 
 nav ul li a {
 .aleo-<uniquifier> {
