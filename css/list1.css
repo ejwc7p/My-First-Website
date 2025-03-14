@@ -1,1 +1,105 @@
+nav{
+	margin: auto;
+	max-width: 600px;
+	font-size: 1.2rem;
+	text-transform: uppercase;
 
+
+}
+nav ul{
+
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+  	list-style-type: none;
+
+}
+
+
+
+
+
+
+
+nav ul li{
+
+
+	background-color: lightblue;
+	padding: 0.3rem;
+	margin: 0.4rem;
+	max-width: 100%;
+}
+
+
+nav ul li a{
+
+	font-family:"Lexend Peta", serif;
+	font-optical-sizing: auto;
+  	font-weight: <weight>;
+  	font-style: normal;
+  	text-decoration: none;
+
+
+}
+
+
+
+p{
+
+	font-family: "Nunito Sans", serif;
+
+
+}
+
+
+.list-name{
+
+	font-weight: 600;
+	font-size: 1.3rem;
+	font-family: "Kumbh Sans", serif;
+	font-style: italic;
+	color: green;
+
+}
+
+
+
+.poster img{
+
+	max-width: 275px;
+	margin: 1rem;
+	border-radius: 0.4rem;
+}
+
+
+
+
+
+@media screen and (min-width:500px){
+
+body{
+
+	flex-direction: column !important;
+		margin: 3rem;
+}
+
+		flex-direction: co !important;
+		margin: 3rem;
+}
+
+
+@media screen and (min-width:800px){
+
+	.poster {
+
+		flex-direction: row !important;
+		margin: 3rem;
+	}
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+}
