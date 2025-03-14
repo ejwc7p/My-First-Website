@@ -54,11 +54,9 @@ p {
 
 .list-item{
 
-	font-weight: 600;
-	font-size: 1.3rem;
-	font-family: "Kumbh Sans", serif;
-	font-style: italic;
-	color: green;
+	font-family: "Neuton", serif;
+  	font-weight: 700;
+ 	 font-style: normal;
 
 }
 
